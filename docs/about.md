@@ -18,15 +18,14 @@ Write it in first (I) or third (Your Name Here) person.
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
-
-Grace Hopper Celebration Attendee
+Research Scientist
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- Deep Learning Specialization (deeplearning.ai)
 
 ## Social Media
 
 - Twitter
-- LinkedIn
+- LinkedIn (www.linkedin.com/in/kan-fu-70045264)
 - GitHub
