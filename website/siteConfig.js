@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/kan-fu',
+        linkedin: 'kan-fu',
         twitter: '',
         github: 'https://github.com/fukan000',
     },
